@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{6:function(e,t,n){"use strict";n.r(t);var i=n(0),o=n.n(i),c=n(8),s=n(9);t.default=function(){c.a.helper("setPercent",c.b),c.a.checkLogin()?o()("#index").html(c.a.template.render(s,{test:1})):location.href="https://github.com/Lontineaf"}},9:function(e,t){e.exports="<div>这里是首页{{setPercent()}}{{test}}</div>"}}]);
