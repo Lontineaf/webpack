@@ -9,6 +9,6 @@
 3. art-template 实现前端模板渲染。
 
 ### 参考文档
-https://webpack.github.io/
-https://www.cnblogs.com/Showshare/p/director-chinese-tutorial.html
-http://aui.github.io/art-template/docs/
+1. https://webpack.github.io/
+2. https://www.cnblogs.com/Showshare/p/director-chinese-tutorial.html
+3. http://aui.github.io/art-template/docs/
